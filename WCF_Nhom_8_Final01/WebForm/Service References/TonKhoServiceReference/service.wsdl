@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="TonKhoService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import namespace="http://schemas.datacontract.org/2004/07/WcfServices" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ITonKhoService_SoLuongTonKho_SPID_InputMessage">
+    <wsdl:part name="parameters" element="tns:SoLuongTonKho_SPID" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_SoLuongTonKho_SPID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SoLuongTonKho_SPIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_HienThiTonKho_InputMessage">
+    <wsdl:part name="parameters" element="tns:HienThiTonKho" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_HienThiTonKho_OutputMessage">
+    <wsdl:part name="parameters" element="tns:HienThiTonKhoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_TimKiemTonKho_SPID_InputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiemTonKho_SPID" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_TimKiemTonKho_SPID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiemTonKho_SPIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_TimKiemTonKho_ThoiGian_InputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiemTonKho_ThoiGian" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_TimKiemTonKho_ThoiGian_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiemTonKho_ThoiGianResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_TimKiemTonKho_Ngay_InputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiemTonKho_Ngay" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_TimKiemTonKho_Ngay_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiemTonKho_NgayResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_TimKiemTonKho_SoLuongTon_InputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiemTonKho_SoLuongTon" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_TimKiemTonKho_SoLuongTon_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiemTonKho_SoLuongTonResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_Them_Moi_InputMessage">
+    <wsdl:part name="parameters" element="tns:Them_Moi" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_Them_Moi_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Them_MoiResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_Them_Nhap_InputMessage">
+    <wsdl:part name="parameters" element="tns:Them_Nhap" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_Them_Nhap_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Them_NhapResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_Them_Xuat_InputMessage">
+    <wsdl:part name="parameters" element="tns:Them_Xuat" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_Them_Xuat_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Them_XuatResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_Xoa_InputMessage">
+    <wsdl:part name="parameters" element="tns:Xoa" />
+  </wsdl:message>
+  <wsdl:message name="ITonKhoService_Xoa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:XoaResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ITonKhoService">
+    <wsdl:operation name="SoLuongTonKho_SPID">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITonKhoService/SoLuongTonKho_SPID" message="tns:ITonKhoService_SoLuongTonKho_SPID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITonKhoService/SoLuongTonKho_SPIDResponse" message="tns:ITonKhoService_SoLuongTonKho_SPID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="HienThiTonKho">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITonKhoService/HienThiTonKho" message="tns:ITonKhoService_HienThiTonKho_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITonKhoService/HienThiTonKhoResponse" message="tns:ITonKhoService_HienThiTonKho_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TimKiemTonKho_SPID">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITonKhoService/TimKiemTonKho_SPID" message="tns:ITonKhoService_TimKiemTonKho_SPID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITonKhoService/TimKiemTonKho_SPIDResponse" message="tns:ITonKhoService_TimKiemTonKho_SPID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TimKiemTonKho_ThoiGian">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITonKhoService/TimKiemTonKho_ThoiGian" message="tns:ITonKhoService_TimKiemTonKho_ThoiGian_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITonKhoService/TimKiemTonKho_ThoiGianResponse" message="tns:ITonKhoService_TimKiemTonKho_ThoiGian_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TimKiemTonKho_Ngay">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITonKhoService/TimKiemTonKho_Ngay" message="tns:ITonKhoService_TimKiemTonKho_Ngay_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITonKhoService/TimKiemTonKho_NgayResponse" message="tns:ITonKhoService_TimKiemTonKho_Ngay_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TimKiemTonKho_SoLuongTon">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITonKhoService/TimKiemTonKho_SoLuongTon" message="tns:ITonKhoService_TimKiemTonKho_SoLuongTon_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITonKhoService/TimKiemTonKho_SoLuongTonResponse" message="tns:ITonKhoService_TimKiemTonKho_SoLuongTon_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Them_Moi">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITonKhoService/Them_Moi" message="tns:ITonKhoService_Them_Moi_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITonKhoService/Them_MoiResponse" message="tns:ITonKhoService_Them_Moi_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Them_Nhap">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITonKhoService/Them_Nhap" message="tns:ITonKhoService_Them_Nhap_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITonKhoService/Them_NhapResponse" message="tns:ITonKhoService_Them_Nhap_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Them_Xuat">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITonKhoService/Them_Xuat" message="tns:ITonKhoService_Them_Xuat_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITonKhoService/Them_XuatResponse" message="tns:ITonKhoService_Them_Xuat_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Xoa">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITonKhoService/Xoa" message="tns:ITonKhoService_Xoa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITonKhoService/XoaResponse" message="tns:ITonKhoService_Xoa_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ITonKhoService" type="tns:ITonKhoService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SoLuongTonKho_SPID">
+      <soap:operation soapAction="http://tempuri.org/ITonKhoService/SoLuongTonKho_SPID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="HienThiTonKho">
+      <soap:operation soapAction="http://tempuri.org/ITonKhoService/HienThiTonKho" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TimKiemTonKho_SPID">
+      <soap:operation soapAction="http://tempuri.org/ITonKhoService/TimKiemTonKho_SPID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TimKiemTonKho_ThoiGian">
+      <soap:operation soapAction="http://tempuri.org/ITonKhoService/TimKiemTonKho_ThoiGian" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TimKiemTonKho_Ngay">
+      <soap:operation soapAction="http://tempuri.org/ITonKhoService/TimKiemTonKho_Ngay" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TimKiemTonKho_SoLuongTon">
+      <soap:operation soapAction="http://tempuri.org/ITonKhoService/TimKiemTonKho_SoLuongTon" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Them_Moi">
+      <soap:operation soapAction="http://tempuri.org/ITonKhoService/Them_Moi" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Them_Nhap">
+      <soap:operation soapAction="http://tempuri.org/ITonKhoService/Them_Nhap" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Them_Xuat">
+      <soap:operation soapAction="http://tempuri.org/ITonKhoService/Them_Xuat" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Xoa">
+      <soap:operation soapAction="http://tempuri.org/ITonKhoService/Xoa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="TonKhoService">
+    <wsdl:port name="BasicHttpBinding_ITonKhoService" binding="tns:BasicHttpBinding_ITonKhoService">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/WcfServices/TonKhoService/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="07c2c248-de58-47e7-987c-ff9f49042693" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/WcfServices/CtDonDHService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="c513fa7e-b9ff-4044-8bd8-56a1b405fe76" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfServices/CtDonDHService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="97f7df20-8bd1-452b-a70a-bfe84e55834f" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfServices/CtDonDHService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="4e95444a-4771-4786-b3a2-a4587baf1c19" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfServices/CtDonDHService/mex" />
+    <MetadataFile FileName="WcfServices.xsd" MetadataType="Schema" ID="9507ee33-f447-407f-8647-fee5d4b1f300" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfServices/CtDonDHService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

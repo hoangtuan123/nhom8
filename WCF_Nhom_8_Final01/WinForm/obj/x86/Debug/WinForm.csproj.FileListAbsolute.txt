@@ -1,0 +1,441 @@
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.pdb
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WinForm\bin\Debug\BLL.dll
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WinForm\bin\Debug\DAL.dll
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WinForm\bin\Debug\BLL.pdb
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WinForm\bin\Debug\DAL.pdb
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.pdb
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\BLL.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\DAL.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\BLL.pdb
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\DAL.pdb
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLySanPham.resources
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyNhaSX.resources
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyDonDH_CtDonDH.resources
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyPhieuNhap_CtPhieuNhap.resources
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyTonKho.resources
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_baocao.resources
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.GioiThieu.resources
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\CollectionPager.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\HtmlAgilityPack.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\AjaxMin.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.pdb
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.pdb
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\pl\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WinForm\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe.config
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.pdb
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\BLL.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\DAL.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\CollectionPager.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\HtmlAgilityPack.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\AjaxMin.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\BLL.pdb
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\DAL.pdb
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.pdb
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.pdb
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\ar\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\cs\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\de\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\es\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\fr\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\he\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\hi\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\it\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\ja\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\ko\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\nl\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\pl\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\pt\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\ru\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_baocao.resources
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyDonDH_CtDonDH.resources
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyNhaSX.resources
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyPhieuNhap_CtPhieuNhap.resources
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLySanPham.resources
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyTonKho.resources
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.GioiThieu.resources
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe.config
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\BLL.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\DAL.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\CollectionPager.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\HtmlAgilityPack.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\AjaxMin.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\BLL.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\DAL.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\ar\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\cs\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\de\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\es\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\fr\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\he\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\hi\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\it\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\ja\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\ko\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\nl\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\pl\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\pt\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\ru\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_baocao.resources
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyDonDH_CtDonDH.resources
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyNhaSX.resources
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyPhieuNhap_CtPhieuNhap.resources
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLySanPham.resources
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyTonKho.resources
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.GioiThieu.resources
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe.config
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_baocao.resources
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyDonDH_CtDonDH.resources
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyNhaSX.resources
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyPhieuNhap_CtPhieuNhap.resources
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLySanPham.resources
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyTonKho.resources
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.GioiThieu.resources
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\BLL.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\DAL.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\CollectionPager.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\HtmlAgilityPack.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\AjaxMin.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\BLL.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\DAL.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\ar\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\cs\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\de\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\es\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\fr\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\he\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\hi\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\it\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\ja\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\ko\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\nl\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\pl\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\pt\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\ru\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\CollectionPager.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\HtmlAgilityPack.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\AjaxMin.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\pl\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_baocao.resources
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyDonDH_CtDonDH.resources
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyNhaSX.resources
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyPhieuNhap_CtPhieuNhap.resources
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLySanPham.resources
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyTonKho.resources
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.GioiThieu.resources
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\CollectionPager.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\HtmlAgilityPack.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\AjaxMin.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\pl\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_baocao.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyDonDH_CtDonDH.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyNhaSX.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyPhieuNhap_CtPhieuNhap.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLySanPham.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyTonKho.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.GioiThieu.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\bin\Debug\CollectionPager.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\bin\Debug\AjaxMin.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_baocao.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyDonDH_CtDonDH.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyNhaSX.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyPhieuNhap_CtPhieuNhap.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLySanPham.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyTonKho.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.GioiThieu.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.pdb
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.dll
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\bin\Debug\CollectionPager.dll
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.dll
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.pdb
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_baocao.resources
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyDonDH_CtDonDH.resources
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyNhaSX.resources
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyPhieuNhap_CtPhieuNhap.resources
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLySanPham.resources
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyTonKho.resources
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.GioiThieu.resources
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WinForm\bin\Debug\AjaxMin.dll
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.pdb
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.dll
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\bin\Debug\CollectionPager.dll
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.dll
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\bin\Debug\AjaxMin.dll
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.pdb
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_baocao.resources
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyDonDH_CtDonDH.resources
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyNhaSX.resources
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyPhieuNhap_CtPhieuNhap.resources
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLySanPham.resources
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyTonKho.resources
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.GioiThieu.resources
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.pdb
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.dll
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\CollectionPager.dll
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.dll
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\AjaxMin.dll
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.pdb
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_baocao.resources
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyDonDH_CtDonDH.resources
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyNhaSX.resources
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyPhieuNhap_CtPhieuNhap.resources
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLySanPham.resources
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyTonKho.resources
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.GioiThieu.resources
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.pdb
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.dll
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\CollectionPager.dll
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.dll
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\AjaxMin.dll
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.pdb
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_baocao.resources
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyDonDH_CtDonDH.resources
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyNhaSX.resources
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyPhieuNhap_CtPhieuNhap.resources
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLySanPham.resources
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyTonKho.resources
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.GioiThieu.resources
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\davidvinhit\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\davidvinhit\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+C:\Users\davidvinhit\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.exe
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.pdb
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.exe
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WinForm.pdb
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.dll
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\CollectionPager.dll
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\AjaxControlToolkit.dll
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\AjaxMin.dll
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\bin\Debug\WebForm.pdb
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_baocao.resources
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyDonDH_CtDonDH.resources
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyNhaSX.resources
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyPhieuNhap_CtPhieuNhap.resources
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLySanPham.resources
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyTonKho.resources
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.GioiThieu.resources
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18 - Copy\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18 - Copy\WinForm\obj\x86\Debug\WinForm.exe
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18 - Copy\WinForm\obj\x86\Debug\WinForm.pdb
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\obj\x86\Debug\WinForm.exe
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\obj\x86\Debug\WinForm.pdb
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\bin\Debug\WinForm.exe
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\bin\Debug\WinForm.pdb
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\bin\Debug\WebForm.dll
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\bin\Debug\CollectionPager.dll
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\bin\Debug\AjaxControlToolkit.dll
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\bin\Debug\AjaxMin.dll
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\bin\Debug\WebForm.pdb
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\obj\x86\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\obj\x86\Debug\WinForm.FrmMain.resources
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\obj\x86\Debug\WinForm.Frm_baocao.resources
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyDonDH_CtDonDH.resources
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyNhaSX.resources
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyPhieuNhap_CtPhieuNhap.resources
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\obj\x86\Debug\WinForm.Frm_QuanLySanPham.resources
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\obj\x86\Debug\WinForm.Frm_QuanLyTonKho.resources
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\obj\x86\Debug\WinForm.GioiThieu.resources
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\obj\x86\Debug\WinForm.Properties.Resources.resources
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WinForm\obj\x86\Debug\WinForm.csproj.GenerateResource.Cache

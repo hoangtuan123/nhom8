@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WcfServices" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WcfServices" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfDonDH">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DonDH" nillable="true" type="tns:DonDH" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDonDH" nillable="true" type="tns:ArrayOfDonDH" />
+  <xs:complexType name="DonDH">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DiaChi" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DienThoai" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DonDH_ID" type="xs:int" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="GhiChu" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="HoTenKH" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ID_NguoiDung" type="xs:int" />
+      <xs:element minOccurs="0" name="MaDonDH" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NgayDat" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="NgayGiao" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="TinhTrang" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TongTien" type="xs:float" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DonDH" nillable="true" type="tns:DonDH" />
+</xs:schema>

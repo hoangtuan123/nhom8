@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="PhieuNhapService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import namespace="http://schemas.datacontract.org/2004/07/WcfServices" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IPhieuNhapService_HienThiPhieuNhap_InputMessage">
+    <wsdl:part name="parameters" element="tns:HienThiPhieuNhap" />
+  </wsdl:message>
+  <wsdl:message name="IPhieuNhapService_HienThiPhieuNhap_OutputMessage">
+    <wsdl:part name="parameters" element="tns:HienThiPhieuNhapResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPhieuNhapService_TimKiem_InputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiem" />
+  </wsdl:message>
+  <wsdl:message name="IPhieuNhapService_TimKiem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPhieuNhapService_Them_InputMessage">
+    <wsdl:part name="parameters" element="tns:Them" />
+  </wsdl:message>
+  <wsdl:message name="IPhieuNhapService_Them_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ThemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPhieuNhapService_Sua_TongTien_InputMessage">
+    <wsdl:part name="parameters" element="tns:Sua_TongTien" />
+  </wsdl:message>
+  <wsdl:message name="IPhieuNhapService_Sua_TongTien_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Sua_TongTienResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IPhieuNhapService">
+    <wsdl:operation name="HienThiPhieuNhap">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPhieuNhapService/HienThiPhieuNhap" message="tns:IPhieuNhapService_HienThiPhieuNhap_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPhieuNhapService/HienThiPhieuNhapResponse" message="tns:IPhieuNhapService_HienThiPhieuNhap_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TimKiem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPhieuNhapService/TimKiem" message="tns:IPhieuNhapService_TimKiem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPhieuNhapService/TimKiemResponse" message="tns:IPhieuNhapService_TimKiem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Them">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPhieuNhapService/Them" message="tns:IPhieuNhapService_Them_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPhieuNhapService/ThemResponse" message="tns:IPhieuNhapService_Them_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Sua_TongTien">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPhieuNhapService/Sua_TongTien" message="tns:IPhieuNhapService_Sua_TongTien_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPhieuNhapService/Sua_TongTienResponse" message="tns:IPhieuNhapService_Sua_TongTien_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IPhieuNhapService" type="tns:IPhieuNhapService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HienThiPhieuNhap">
+      <soap:operation soapAction="http://tempuri.org/IPhieuNhapService/HienThiPhieuNhap" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TimKiem">
+      <soap:operation soapAction="http://tempuri.org/IPhieuNhapService/TimKiem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Them">
+      <soap:operation soapAction="http://tempuri.org/IPhieuNhapService/Them" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Sua_TongTien">
+      <soap:operation soapAction="http://tempuri.org/IPhieuNhapService/Sua_TongTien" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="PhieuNhapService">
+    <wsdl:port name="BasicHttpBinding_IPhieuNhapService" binding="tns:BasicHttpBinding_IPhieuNhapService">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/WcfServices/PhieuNhapService/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

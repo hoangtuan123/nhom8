@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.datacontract.org/2004/07/WcfServices" />
+  <xs:element name="HienThiPhieuNhap">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="HienThiPhieuNhapResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="HienThiPhieuNhapResult" nillable="true" type="q1:ArrayOfPhieuNhap" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TimKiem">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="pn" nillable="true" type="q2:PhieuNhap" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TimKiemResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="TimKiemResult" nillable="true" type="q3:ArrayOfPhieuNhap" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Them">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="pn" nillable="true" type="q4:PhieuNhap" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ThemResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Sua_TongTien">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="pn" nillable="true" type="q5:PhieuNhap" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Sua_TongTienResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

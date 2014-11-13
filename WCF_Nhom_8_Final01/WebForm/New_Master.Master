@@ -1,0 +1,465 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="New_Master.master.cs" Inherits="WebForm.New_Master" %>
+
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script src="bootstrap/js/jquery-1.9.1.min.js"></script>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <style>
+        .desgin_1 {
+            margin-top: -1px;
+            border-bottom: 20px solid transparent !important;
+            border-left: 10px solid black !important;
+            border-top: 21px solid transparent !important;
+        }
+        body {
+          
+        }
+        #full {
+            margin-top:0px;
+            width:1200px;
+            height:auto;
+            background-color:#ffffff;
+            
+            margin-left:auto;
+            margin-right:auto;
+        }
+        #banner {
+          
+            width:1200px;
+            height:150px;
+        }
+        #menu {
+
+            width:100%;
+            height:40px;
+            background-color:#1e7c9a;
+            padding-left:30px;
+        }
+        #content {
+            padding-top: 10px ;
+            padding-left: 15px ;
+            width:1190px;
+            height:auto;
+        }
+       
+        #content_left {
+            width:180px;
+            height:auto;
+            float:left;
+            margin-top:0px;
+           
+        }
+        
+         #content_left_1 {
+            
+           border-left:1px solid #e3e3e3;
+            border-right:1px solid #e3e3e3;
+            border-bottom:1px solid #e3e3e3;
+         height:160px;
+        }
+        #content_left_1 a {
+          height:30px;
+          line-height:30px;
+          padding-left:5px;
+            margin-top:0px;
+            display:block;
+               border-left:1px solid #e3e3e3;
+            border-right:1px solid #e3e3e3;
+            border-bottom:1px solid #e3e3e3;
+            color:white;
+            background-color:#1e7c9a;
+        }
+         #content_left_2 {
+           
+            margin-top:10px;
+              border-left:1px solid #e3e3e3;
+            border-right:1px solid #e3e3e3;
+            border-bottom:1px solid #e3e3e3;
+            height:300px;
+           
+        }
+            #content_left_2 a {
+                   height:30px;
+          line-height:30px;
+          padding-left:5px;
+            margin-top:0px;
+            display:block;
+              border-left:1px solid #e3e3e3;
+            border-right:1px solid #e3e3e3;
+            border-bottom:1px solid #e3e3e3;
+            color:white;
+            background-color:#1e7c9a;
+            }
+         #content_left_3 {
+
+        }
+        #content_center {
+            width:788px;
+            height:auto;
+            float:left;
+            margin-left:14px;
+            border-left:1px solid #e3e3e3;
+            border-right:1px solid #e3e3e3;
+            border-bottom:1px solid #e3e3e3;
+        }
+        .dssp {
+            min-height:150px;
+            
+               border-left:1px solid #e3e3e3;
+            border-right:1px solid #e3e3e3;
+            border-bottom:1px solid #e3e3e3;
+            padding: 10px 0px 10px 20px;
+            margin-top:0px;
+        }
+        #content_center p {
+          margin-top:0px;
+     
+        }
+         .sp {
+      
+            margin-top:0px;
+            display:block;
+               border-left:1px solid #e3e3e3;
+            border-right:1px solid #e3e3e3;
+            border-bottom:1px solid #e3e3e3;
+            color:white;
+            background-color:#1e7c9a;
+        }
+        #content_right {
+         
+            width:180px;
+            height:auto;
+            float:right;
+        }
+        #content_right_1 {
+         
+               border-left:1px solid #e3e3e3;
+            border-right:1px solid #e3e3e3;
+            border-bottom:1px solid #e3e3e3;
+            min-height:200px;
+            border-radius:0px 15px 0px 0px;
+        }
+        #content_right_1 a {
+                    height:30px;
+          line-height:30px;
+          padding-left:5px;
+            margin-top:0px;
+            display:block;
+               border-left:1px solid #e3e3e3;
+            border-right:1px solid #e3e3e3;
+            border-bottom:1px solid #e3e3e3;
+            color:white;
+            background-color:#1e7c9a;
+        }
+        #content_right_2 {
+           
+              border-left:1px solid #e3e3e3;
+            border-right:1px solid #e3e3e3;
+            border-bottom:1px solid #e3e3e3;
+            height:170px;
+            width:180px;
+            margin-top:10px;
+            
+            background-color:#ffffff;
+        }
+        #content_right_2 a {
+                   height:30px;
+          line-height:30px;
+          padding-left:5px;
+            margin-top:0px;
+            display:block;
+              border-left:1px solid #e3e3e3;
+            border-right:1px solid #e3e3e3;
+            border-bottom:1px solid #e3e3e3;
+            color:white;
+            background-color:#1e7c9a;
+        }
+        #content_right_3 {
+         
+              border-left:1px solid #e3e3e3;
+            border-right:1px solid #e3e3e3;
+            border-bottom:1px solid #e3e3e3;
+            height:150px;
+            width:180px;
+            margin-top:10px;
+            z-index:999;
+        }
+        #content_right_3 a {
+                   height:30px;
+          line-height:30px;
+          padding-left:5px;
+            margin-top:0px;
+            display:block;
+            border:1px solid black;
+            color:white;
+            background-color:#1e7c9a;
+        }
+        #content_right_4 {
+        }
+        #header {
+            border-top:1px solid #e3e3e3;
+            clear:both;
+        
+            width:100%;
+            height:50px;
+            text-align:center;
+        }
+
+        /*menu*/
+       ul {
+            font-family: Arial, Verdana;
+            font-size: 14px;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+        ul li {
+            display: block;
+            position: relative;
+            float: left;
+        }
+        li ul {
+            display: none;
+        }
+        ul li a {
+            width:140px;
+            display: block;
+            text-decoration: none;
+            color: #ffffff;
+            height:40px;
+            line-height:40px;
+            padding: 5px 15px 5px 15px;
+            background: #1e7c9a;
+            margin-left: 1px;
+            white-space: nowrap;
+            border-left:2px solid white;
+            line-height:20px;
+        }
+
+        ul li a:hover {
+            background: #1e7c9a;
+            color:white;
+        }
+        li:hover ul {
+            display: block;
+            position: absolute;
+        }
+        li:hover li {
+            float: none;
+            font-size: 11px;
+        }
+        li:hover a { background: #0e3860; }
+        li:hover li a:hover {
+            background: #1e7c9a;
+        }
+        .a_label {
+            width:100%;
+            border-color:white;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+<div id="full">
+    <div id="banner">
+        <img src="Hinh/Icon/BANNER.jpg" />
+       
+    </div>
+    <div id="menu">
+        <ul id="Ul1">
+            <li><a href="/TrangChu.aspx">Trang Chủ</a></li>
+            <li><a href="#">Sản Phẩm</a>
+                <ul>
+                     
+                     <%-- menu --%>
+                           <asp:Repeater ID="dlDsNSX_1" runat="server" >
+                            <ItemTemplate>
+                                 <li>     
+                                <%-- <asp:Image ID="Image4" runat="server" Height="29px" ImageUrl="~/Hinh/Icon/icon.png" Width="26px" />--%>
+                                 <asp:HyperLink ID="HyperLink6"  runat="server" NavigateUrl='<%# Eval("NhaSX_ID","SanPham.aspx?NhaSX_ID={0}") %>' Text='<%# Eval("TenNhaSX") %>'></asp:HyperLink>
+                                  </li>
+                                 </ItemTemplate>
+                            </asp:Repeater>
+                        
+                </ul>
+            </li>
+            <li><a href="/GioiThieu.aspx">Giới Thiệu</a>
+         
+            </li>
+            <li><a href="/BaoHanh.aspx">Bảo Hành</a>
+
+            </li>
+             <li><a href="/LienHe.aspx">Liên Hệ</a>
+
+            </li>
+       
+        </ul>
+    </div>
+    <div id="content">
+        <div id="content_left">
+            <div id="content_left_1">
+                <a>Tìm Kiếm</a>
+                         <table cellpadding="2" width="100%">
+                        <tr>
+                            <td colspan="2" style="text-align: center"><strong>Nhập tên sản phẩm</strong></td>
+                        </tr>
+                        <tr>
+                            
+                            <td colspan="2">
+                                <asp:TextBox class="form-control" ID="txtTenSP" runat="server" Width="167px"></asp:TextBox>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="text-align: center">
+                                <asp:Button ID="btnTimKiem" runat="server" Text="Tìm kiếm" OnClick="btnTimKiem_Click" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="text-align: center;">
+                                <a style="display:block;border-radius:0 0 0 0;" href="TimKiemNangCao.aspx">Tìm kiếm nâng cao</a>
+                              
+                            </td>
+                        </tr>
+                    </table>
+            </div>
+            <div id="content_left_2">
+                <a>Quảng Cáo</a>
+            </div>
+            <div id="content_left_3"></div>
+        </div>
+        <div id="content_center">
+         
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+       
+        </div>
+        <div id="content_right">
+            <div id="content_right_1">
+                 <a>Đăng Nhập</a>
+                <% if(Session["Ten"]==null) { %>
+                <table  style="">
+                     <tr style="width:100%;">
+                        <td>Tên Đăng Nhập:</td>
+                       
+                    </tr>
+                    <tr>
+                     
+                        <td>
+                            <asp:TextBox ID="txtTenDangNhap" class="form-control" runat="server"></asp:TextBox>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Mật Khẩu</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:TextBox  ID="txtMatKhau"  class="form-control" runat="server" TextMode="Password"></asp:TextBox>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:Button ID="btnDangNhap"  runat="server" Text="Đăng Nhập" OnClick="btnDangNhap_Click" />
+                        </td>
+                    </tr>
+                
+                    <tr>
+                    
+                        <td style="color:red;">
+                            <asp:Label ID="lblLoiDangNhap" runat="server" Text=""></asp:Label>
+                        </td>
+                    </tr>
+                          <tr>
+                        <td style="text-align:center;">
+                            <a href="/DangKy.aspx">Đăng ký</a>
+                        </td>
+                    </tr>
+                </table>
+                <%}
+                  else {
+                   %>
+                <table style="width:100%;">
+                    <tr style="width:100%;">
+                        <td>Họ Tên: 
+                            <asp:Label  ID="lblTenDangNhap" runat="server" Text=""></asp:Label>
+                        </td>
+                    </tr>
+                    <tr>
+                     
+                         
+                    </tr>
+                    <tr>
+                         <td>
+                            <a style="width:100%" href="/QuanLyTaiKhoan.aspx">Quản Lý Tài Khoản</a>
+                        </td>
+                        </tr>
+                     <tr>
+                        <td>
+                            
+                            <a style="width:100%" href="/Thoat.aspx" >Thoát</a>
+                           
+                        </td>
+                    </tr>
+                </table>
+                <%} %>
+            </div>
+            <div id="content_right_2">
+                 <a>Giỏ hàng</a>
+                <table border="0" cellpadding="3" cellspacing="3" width="100%">
+                        <tr>
+                            <td style="width:100%;text-align:center"><strong style="text-align: center">Thông tin giỏ hàng</strong></td>
+                        </tr>
+                        <tr>
+                            <td class="auto-style1" style="text-align: center">Sản phẩm: </td>
+                        </tr>
+                        <tr>
+                            <td class="auto-style1" style="text-align: center">
+                                <asp:Label ID="lbSoLuong" runat="server" Text="0"></asp:Label>
+                                &nbsp;sản phẩm</td>
+                        </tr>
+                        <tr>
+                            <td class="auto-style1" style="text-align: center">
+                                <asp:ImageButton ID="ImageButton1" runat="server" Height="50px" ImageUrl="~/Hinh/Icon/shoppingcart.png" OnClick="ImageButton1_Click" />
+                                <br />
+                                <asp:Label ID="lbThongBaoLoi" runat="server"></asp:Label>
+                            </td>
+                        </tr>
+                    </table>
+            </div>
+            <div id="content_right_3">
+                 <a>Số Lượt truy cập</a>
+                 <table align="center" cellpadding="2">
+                        <tr>
+                            <td colspan="2" style="text-align: center"><strong>Thống kê số lượt truy cập</strong></td>
+                        </tr>
+                        <tr>
+                            <td>Tổng số lượt truy cập:</td>
+                            <td>
+                                <asp:Label ID="lbTruyCap" runat="server">0</asp:Label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Tổng số đang online:</td>
+                            <td>
+                                <asp:Label ID="lbOnline" runat="server">0</asp:Label>
+                            </td>
+                        </tr>
+                    </table>
+            </div>
+            <div id="content_right_4"></div>
+        </div>
+    </div>
+    <div id="header">
+         <span class="auto-style3"><strong>Copyright 2014</strong></span>
+            <span class="auto-style3" style="display:block;"><strong>Website Bán hàng online - WebService - Nhóm 8</strong></span>
+    </div>  
+</div>
+         </form>
+</body>
+</html>

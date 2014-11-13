@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="DonDHService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import namespace="http://schemas.datacontract.org/2004/07/WcfServices" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IDonDHService_HienThiDonDH_InputMessage">
+    <wsdl:part name="parameters" element="tns:HienThiDonDH" />
+  </wsdl:message>
+  <wsdl:message name="IDonDHService_HienThiDonDH_OutputMessage">
+    <wsdl:part name="parameters" element="tns:HienThiDonDHResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDonDHService_TimKiem_InputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiem" />
+  </wsdl:message>
+  <wsdl:message name="IDonDHService_TimKiem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDonDHService_TimKiem_TinhTrang_InputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiem_TinhTrang" />
+  </wsdl:message>
+  <wsdl:message name="IDonDHService_TimKiem_TinhTrang_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TimKiem_TinhTrangResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDonDHService_Them_InputMessage">
+    <wsdl:part name="parameters" element="tns:Them" />
+  </wsdl:message>
+  <wsdl:message name="IDonDHService_Them_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ThemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDonDHService_SuaTongTien_InputMessage">
+    <wsdl:part name="parameters" element="tns:SuaTongTien" />
+  </wsdl:message>
+  <wsdl:message name="IDonDHService_SuaTongTien_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SuaTongTienResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDonDHService_SuaTinhTrang_InputMessage">
+    <wsdl:part name="parameters" element="tns:SuaTinhTrang" />
+  </wsdl:message>
+  <wsdl:message name="IDonDHService_SuaTinhTrang_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SuaTinhTrangResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDonDHService_Xoa_InputMessage">
+    <wsdl:part name="parameters" element="tns:Xoa" />
+  </wsdl:message>
+  <wsdl:message name="IDonDHService_Xoa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:XoaResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IDonDHService">
+    <wsdl:operation name="HienThiDonDH">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDonDHService/HienThiDonDH" message="tns:IDonDHService_HienThiDonDH_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDonDHService/HienThiDonDHResponse" message="tns:IDonDHService_HienThiDonDH_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TimKiem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDonDHService/TimKiem" message="tns:IDonDHService_TimKiem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDonDHService/TimKiemResponse" message="tns:IDonDHService_TimKiem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TimKiem_TinhTrang">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDonDHService/TimKiem_TinhTrang" message="tns:IDonDHService_TimKiem_TinhTrang_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDonDHService/TimKiem_TinhTrangResponse" message="tns:IDonDHService_TimKiem_TinhTrang_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Them">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDonDHService/Them" message="tns:IDonDHService_Them_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDonDHService/ThemResponse" message="tns:IDonDHService_Them_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SuaTongTien">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDonDHService/SuaTongTien" message="tns:IDonDHService_SuaTongTien_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDonDHService/SuaTongTienResponse" message="tns:IDonDHService_SuaTongTien_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SuaTinhTrang">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDonDHService/SuaTinhTrang" message="tns:IDonDHService_SuaTinhTrang_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDonDHService/SuaTinhTrangResponse" message="tns:IDonDHService_SuaTinhTrang_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Xoa">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDonDHService/Xoa" message="tns:IDonDHService_Xoa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDonDHService/XoaResponse" message="tns:IDonDHService_Xoa_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IDonDHService" type="tns:IDonDHService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HienThiDonDH">
+      <soap:operation soapAction="http://tempuri.org/IDonDHService/HienThiDonDH" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TimKiem">
+      <soap:operation soapAction="http://tempuri.org/IDonDHService/TimKiem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TimKiem_TinhTrang">
+      <soap:operation soapAction="http://tempuri.org/IDonDHService/TimKiem_TinhTrang" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Them">
+      <soap:operation soapAction="http://tempuri.org/IDonDHService/Them" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SuaTongTien">
+      <soap:operation soapAction="http://tempuri.org/IDonDHService/SuaTongTien" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SuaTinhTrang">
+      <soap:operation soapAction="http://tempuri.org/IDonDHService/SuaTinhTrang" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Xoa">
+      <soap:operation soapAction="http://tempuri.org/IDonDHService/Xoa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="DonDHService">
+    <wsdl:port name="BasicHttpBinding_IDonDHService" binding="tns:BasicHttpBinding_IDonDHService">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/WcfServices/DonDHService/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

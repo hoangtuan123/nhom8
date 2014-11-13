@@ -1,0 +1,585 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2851FA3D-19D3-4D04-8F6A-9F42F7A849AC}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebForm</RootNamespace>
+    <AssemblyName>WebForm</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=4.1.7.1005, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\ASP.NET\AjaxControlToolkit.Binary.NET40\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="AjaxMin">
+      <HintPath>..\packages\AjaxMin.5.11.5295.12309\lib\net40\AjaxMin.dll</HintPath>
+    </Reference>
+    <Reference Include="CollectionPager, Version=0.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\ASP.NET\CollectionPager.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportAppServer.ClientDoc, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BaoHanh.aspx" />
+    <Content Include="bootstrap\css\bootstrap.css" />
+    <Content Include="bootstrap\css\bootstrap.min.css" />
+    <Content Include="bootstrap\js\bootstrap.js" />
+    <Content Include="bootstrap\js\bootstrap.min.js" />
+    <Content Include="bootstrap\js\jquery-1.9.1.min.js" />
+    <Content Include="ChiTietSanPham.aspx" />
+    <Content Include="DangKy.aspx" />
+    <Content Include="DatHang.aspx" />
+    <Content Include="DatHangThanhCong.aspx" />
+    <Content Include="DoiMatKhau.aspx" />
+    <Content Include="GioiThieu.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Hinh\Icon\BANNER.jpg" />
+    <Content Include="Hinh\Icon\chitiet.jpg" />
+    <Content Include="Hinh\Icon\dathang.gif" />
+    <Content Include="Hinh\Icon\footer.jpg" />
+    <Content Include="Hinh\Icon\header.jpg" />
+    <Content Include="Hinh\Icon\icon.png" />
+    <Content Include="Hinh\Icon\loading.gif" />
+    <Content Include="Hinh\Icon\shoppingcart.png" />
+    <Content Include="Hinh\Icon\thanhtoan.gif" />
+    <Content Include="Hinh\Icon\tieptucmuahang.gif" />
+    <Content Include="Hinh\Icon_Form\1 %2810%29.png" />
+    <Content Include="Hinh\Icon_Form\1 %282%29.ico" />
+    <Content Include="Hinh\Icon_Form\1 %283%29.ico" />
+    <Content Include="Hinh\Icon_Form\1 %284%29.ico" />
+    <Content Include="Hinh\Icon_Form\1 %285%29.ico" />
+    <Content Include="Hinh\Icon_Form\1 %286%29.ico" />
+    <Content Include="Hinh\Icon_Form\1 %287%29.ico" />
+    <Content Include="Hinh\Icon_Form\1 %288%29.ico" />
+    <Content Include="Hinh\Icon_Form\1 %289%29.ico" />
+    <Content Include="Hinh\Icon_Form\1.ico" />
+    <Content Include="Hinh\Icon_Form\10 %281%29.ico" />
+    <Content Include="Hinh\Icon_Form\10 %282%29.ico" />
+    <Content Include="Hinh\Icon_Form\10 %283%29.ico" />
+    <Content Include="Hinh\Icon_Form\10 %284%29.ico" />
+    <Content Include="Hinh\Icon_Form\10.ico" />
+    <Content Include="Hinh\Icon_Form\123.JPG" />
+    <Content Include="Hinh\Icon_Form\14.ico" />
+    <Content Include="Hinh\Icon_Form\2.ico" />
+    <Content Include="Hinh\Icon_Form\3.ico" />
+    <Content Include="Hinh\Icon_Form\ADD.ICO" />
+    <Content Include="Hinh\Icon_Form\add_user.ico" />
+    <Content Include="Hinh\Icon_Form\admin.ico" />
+    <Content Include="Hinh\Icon_Form\admin_16.ico" />
+    <Content Include="Hinh\Icon_Form\App.ico" />
+    <Content Include="Hinh\Icon_Form\applications.ico" />
+    <Content Include="Hinh\Icon_Form\ArreterSZ.ico" />
+    <Content Include="Hinh\Icon_Form\Background.jpg" />
+    <Content Include="Hinh\Icon_Form\backup.ico" />
+    <Content Include="Hinh\Icon_Form\box_software.JPG" />
+    <Content Include="Hinh\Icon_Form\businessmen.ico" />
+    <Content Include="Hinh\Icon_Form\button_cancel.ico" />
+    <Content Include="Hinh\Icon_Form\button_ok.ico" />
+    <Content Include="Hinh\Icon_Form\cancel_16.ico" />
+    <Content Include="Hinh\Icon_Form\clipboard.ico" />
+    <Content Include="Hinh\Icon_Form\Close.ico" />
+    <Content Include="Hinh\Icon_Form\close_16.ico" />
+    <Content Include="Hinh\Icon_Form\connection.ico" />
+    <Content Include="Hinh\Icon_Form\d2.ico" />
+    <Content Include="Hinh\Icon_Form\delete2.JPG" />
+    <Content Include="Hinh\Icon_Form\delete_user.ico" />
+    <Content Include="Hinh\Icon_Form\documents_32.ico" />
+    <Content Include="Hinh\Icon_Form\edit_16.ico" />
+    <Content Include="Hinh\Icon_Form\edit_user.ico" />
+    <Content Include="Hinh\Icon_Form\exit.ico" />
+    <Content Include="Hinh\Icon_Form\External Hard Drive 2 Check.JPG" />
+    <Content Include="Hinh\Icon_Form\External Hard Drive 2 Error.JPG" />
+    <Content Include="Hinh\Icon_Form\finance_16.ico" />
+    <Content Include="Hinh\Icon_Form\Find.ico" />
+    <Content Include="Hinh\Icon_Form\FirefoxPortable.ico" />
+    <Content Include="Hinh\Icon_Form\flag_vietnam.JPG" />
+    <Content Include="Hinh\Icon_Form\Folder-Open.ico" />
+    <Content Include="Hinh\Icon_Form\folder-open_16.ico" />
+    <Content Include="Hinh\Icon_Form\generic_messenger.ico" />
+    <Content Include="Hinh\Icon_Form\HDD.ico" />
+    <Content Include="Hinh\Icon_Form\help.ico" />
+    <Content Include="Hinh\Icon_Form\help_16.ico" />
+    <Content Include="Hinh\Icon_Form\Home.ico" />
+    <Content Include="Hinh\Icon_Form\Icon_39.ico" />
+    <Content Include="Hinh\Icon_Form\image5.ico" />
+    <Content Include="Hinh\Icon_Form\imageres.06.ico" />
+    <Content Include="Hinh\Icon_Form\imageres.18.ico" />
+    <Content Include="Hinh\Icon_Form\info_16.ico" />
+    <Content Include="Hinh\Icon_Form\info_user.ico" />
+    <Content Include="Hinh\Icon_Form\key1_delete.JPG" />
+    <Content Include="Hinh\Icon_Form\key1_preferences.JPG" />
+    <Content Include="Hinh\Icon_Form\key_user.ico" />
+    <Content Include="Hinh\Icon_Form\khach_hang.JPG" />
+    <Content Include="Hinh\Icon_Form\khach_hang.png" />
+    <Content Include="Hinh\Icon_Form\login.bmp" />
+    <Content Include="Hinh\Icon_Form\logoff.ico" />
+    <Content Include="Hinh\Icon_Form\mail_16.ico" />
+    <Content Include="Hinh\Icon_Form\mail_exchange.JPG" />
+    <Content Include="Hinh\Icon_Form\Management.ico" />
+    <Content Include="Hinh\Icon_Form\MSGBOX01.ICO" />
+    <Content Include="Hinh\Icon_Form\MSGBOX02.ICO" />
+    <Content Include="Hinh\Icon_Form\nav_right_green.ico" />
+    <Content Include="Hinh\Icon_Form\notepad.ico" />
+    <Content Include="Hinh\Icon_Form\ok.ico" />
+    <Content Include="Hinh\Icon_Form\Option.ico" />
+    <Content Include="Hinh\Icon_Form\PasswordOn.ico" />
+    <Content Include="Hinh\Icon_Form\pda_write.JPG" />
+    <Content Include="Hinh\Icon_Form\pen_blue.JPG" />
+    <Content Include="Hinh\Icon_Form\pen_red.JPG" />
+    <Content Include="Hinh\Icon_Form\POINT14.ICO" />
+    <Content Include="Hinh\Icon_Form\preferences_system.ico" />
+    <Content Include="Hinh\Icon_Form\Printers.ico" />
+    <Content Include="Hinh\Icon_Form\PrintPreview.ico" />
+    <Content Include="Hinh\Icon_Form\Recycle-Bin-Empty.ico" />
+    <Content Include="Hinh\Icon_Form\recycle.JPG" />
+    <Content Include="Hinh\Icon_Form\RECYFULL.ICO" />
+    <Content Include="Hinh\Icon_Form\remove_user.ico" />
+    <Content Include="Hinh\Icon_Form\report_16.ico" />
+    <Content Include="Hinh\Icon_Form\restart.ico" />
+    <Content Include="Hinh\Icon_Form\rosas2.JPG" />
+    <Content Include="Hinh\Icon_Form\Run.ico" />
+    <Content Include="Hinh\Icon_Form\Save.ico" />
+    <Content Include="Hinh\Icon_Form\save.png" />
+    <Content Include="Hinh\Icon_Form\save1.png" />
+    <Content Include="Hinh\Icon_Form\SavedLowResolution.ico" />
+    <Content Include="Hinh\Icon_Form\search_16.ico" />
+    <Content Include="Hinh\Icon_Form\search_user.ico" />
+    <Content Include="Hinh\Icon_Form\security-locked_16.ico" />
+    <Content Include="Hinh\Icon_Form\server_client.JPG" />
+    <Content Include="Hinh\Icon_Form\shutdown.ico" />
+    <Content Include="Hinh\Icon_Form\system_users.ico" />
+    <Content Include="Hinh\Icon_Form\telephone.png" />
+    <Content Include="Hinh\Icon_Form\text.ico" />
+    <Content Include="Hinh\Icon_Form\Thongke.ico" />
+    <Content Include="Hinh\Icon_Form\trasatlantico.ico" />
+    <Content Include="Hinh\Icon_Form\undo.ico" />
+    <Content Include="Hinh\Icon_Form\user.ico" />
+    <Content Include="Hinh\Icon_Form\user_group_new.ico" />
+    <Content Include="Hinh\Icon_Form\user_password.ico" />
+    <Content Include="Hinh\Icon_Form\warning.ICO" />
+    <Content Include="Hinh\Icon_Form\window plus.ico" />
+    <Content Include="Hinh\Laptop\acer_01.jpg" />
+    <Content Include="Hinh\Laptop\acer_02.jpg" />
+    <Content Include="Hinh\Laptop\acer_03.jpg" />
+    <Content Include="Hinh\Laptop\acer_04.jpg" />
+    <Content Include="Hinh\Laptop\acer_05.jpg" />
+    <Content Include="Hinh\Laptop\dell_01.jpg" />
+    <Content Include="Hinh\Laptop\dell_02.jpg" />
+    <Content Include="Hinh\Laptop\dell_03.jpg" />
+    <Content Include="Hinh\Laptop\dell_04.jpg" />
+    <Content Include="Hinh\Laptop\hp_01.jpg" />
+    <Content Include="Hinh\Laptop\hp_02.jpg" />
+    <Content Include="Hinh\Laptop\hp_03.jpg" />
+    <Content Include="Hinh\Laptop\hp_04.jpg" />
+    <Content Include="Hinh\Laptop\ss_01.jpg" />
+    <Content Include="Hinh\Laptop\ss_02.jpg" />
+    <Content Include="Hinh\Laptop\ss_03.jpg" />
+    <Content Include="Hinh\Laptop\ss_04.jpg" />
+    <Content Include="Hinh\QuangCao\10_goi-y-3.gif" />
+    <Content Include="Hinh\QuangCao\bando.PNG" />
+    <Content Include="Hinh\QuangCao\bann2.jpg" />
+    <Content Include="Hinh\QuangCao\qc_01.jpg" />
+    <Content Include="Hinh\QuangCao\qc_02.gif" />
+    <Content Include="KetQuaTimKiem.aspx" />
+    <Content Include="LienHe.aspx" />
+    <Content Include="QuanLyTaiKhoan.aspx" />
+    <Content Include="SanPham.aspx" />
+    <Content Include="Service References\CtDonDHServiceReference\configuration91.svcinfo" />
+    <Content Include="Service References\CtDonDHServiceReference\configuration.svcinfo" />
+    <Content Include="Service References\CtDonDHServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </Content>
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="Service References\DonDHServiceReference\configuration91.svcinfo" />
+    <None Include="Service References\DonDHServiceReference\configuration.svcinfo" />
+    <None Include="Service References\DonDHServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="packages.config" />
+    <Content Include="Service References\DonDHServiceReference\WebForm.DonDHServiceReference.DonDH.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Service References\NguoiDungServiceReference\configuration91.svcinfo" />
+    <None Include="Service References\NguoiDungServiceReference\configuration.svcinfo" />
+    <None Include="Service References\NguoiDungServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Service References\NhaSXServiceReference\configuration91.svcinfo" />
+    <Content Include="Service References\NhaSXServiceReference\configuration.svcinfo" />
+    <Content Include="Service References\NhaSXServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </Content>
+    <Content Include="Properties\DataSources\System.Data.DataSet.datasource" />
+    <Content Include="Service References\SanPhamServiceReference\configuration91.svcinfo" />
+    <Content Include="Service References\SanPhamServiceReference\configuration.svcinfo" />
+    <Content Include="Service References\SanPhamServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </Content>
+    <Content Include="Service References\TonKhoServiceReference\configuration91.svcinfo" />
+    <Content Include="Service References\TonKhoServiceReference\configuration.svcinfo" />
+    <Content Include="Service References\TonKhoServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </Content>
+    <Content Include="Thoat.aspx" />
+    <Content Include="TimKiemNangCao.aspx" />
+    <Content Include="TrangChu.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Service References\CtDonDHServiceReference\WebForm.CtDonDHServiceReference.CtDonDH.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\NhaSXServiceReference\WebForm.NhaSXServiceReference.NhaSX.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\SanPhamServiceReference\WebForm.SanPhamServiceReference.SanPham.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <Content Include="Service References\TonKhoServiceReference\WebForm.TonKhoServiceReference.TonKho.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaoHanh.aspx.cs">
+      <DependentUpon>BaoHanh.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BaoHanh.aspx.designer.cs">
+      <DependentUpon>BaoHanh.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChiTietSanPham.aspx.cs">
+      <DependentUpon>ChiTietSanPham.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChiTietSanPham.aspx.designer.cs">
+      <DependentUpon>ChiTietSanPham.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DangKy.aspx.cs">
+      <DependentUpon>DangKy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DangKy.aspx.designer.cs">
+      <DependentUpon>DangKy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DatHang.aspx.cs">
+      <DependentUpon>DatHang.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DatHang.aspx.designer.cs">
+      <DependentUpon>DatHang.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DatHangThanhCong.aspx.cs">
+      <DependentUpon>DatHangThanhCong.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DatHangThanhCong.aspx.designer.cs">
+      <DependentUpon>DatHangThanhCong.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DoiMatKhau.aspx.cs">
+      <DependentUpon>DoiMatKhau.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DoiMatKhau.aspx.designer.cs">
+      <DependentUpon>DoiMatKhau.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GioiThieu.aspx.cs">
+      <DependentUpon>GioiThieu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GioiThieu.aspx.designer.cs">
+      <DependentUpon>GioiThieu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="KetQuaTimKiem.aspx.cs">
+      <DependentUpon>KetQuaTimKiem.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KetQuaTimKiem.aspx.designer.cs">
+      <DependentUpon>KetQuaTimKiem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LienHe.aspx.cs">
+      <DependentUpon>LienHe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LienHe.aspx.designer.cs">
+      <DependentUpon>LienHe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Master.Master.cs">
+      <DependentUpon>Master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master.Master.designer.cs">
+      <DependentUpon>Master.Master</DependentUpon>
+    </Compile>
+    <Compile Include="New_Master.Master.cs">
+      <DependentUpon>New_Master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="New_Master.Master.designer.cs">
+      <DependentUpon>New_Master.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLyTaiKhoan.aspx.cs">
+      <DependentUpon>QuanLyTaiKhoan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QuanLyTaiKhoan.aspx.designer.cs">
+      <DependentUpon>QuanLyTaiKhoan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SanPham.aspx.cs">
+      <DependentUpon>SanPham.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SanPham.aspx.designer.cs">
+      <DependentUpon>SanPham.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\CtDonDHServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\DonDHServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\NguoiDungServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\NhaSXServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\SanPhamServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\TonKhoServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Thoat.aspx.cs">
+      <DependentUpon>Thoat.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Thoat.aspx.designer.cs">
+      <DependentUpon>Thoat.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TimKiemNangCao.aspx.cs">
+      <DependentUpon>TimKiemNangCao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TimKiemNangCao.aspx.designer.cs">
+      <DependentUpon>TimKiemNangCao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TrangChu.aspx.cs">
+      <DependentUpon>TrangChu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TrangChu.aspx.designer.cs">
+      <DependentUpon>TrangChu.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Master.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="WUC\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Hinh\Icon_Form\help.chm" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\CtDonDHServiceReference\" />
+    <WCFMetadataStorage Include="Service References\DonDHServiceReference\" />
+    <WCFMetadataStorage Include="Service References\NguoiDungServiceReference\" />
+    <WCFMetadataStorage Include="Service References\NhaSXServiceReference\" />
+    <WCFMetadataStorage Include="Service References\SanPhamServiceReference\" />
+    <WCFMetadataStorage Include="Service References\TonKhoServiceReference\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Service References\CtDonDHServiceReference\service.wsdl" />
+    <Content Include="New_Master.Master" />
+    <None Include="Service References\CtDonDHServiceReference\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\CtDonDHServiceReference\service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\CtDonDHServiceReference\WcfServices.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\DonDHServiceReference\service.wsdl" />
+    <None Include="Service References\DonDHServiceReference\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\DonDHServiceReference\service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\DonDHServiceReference\WcfServices.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Service References\NhaSXServiceReference\service.wsdl" />
+    <None Include="Service References\NguoiDungServiceReference\service.wsdl" />
+    <None Include="Service References\NguoiDungServiceReference\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NguoiDungServiceReference\service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NguoiDungServiceReference\service2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NguoiDungServiceReference\WcfServices.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NhaSXServiceReference\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NhaSXServiceReference\service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NhaSXServiceReference\WcfServices.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Service References\SanPhamServiceReference\service.wsdl" />
+    <None Include="Service References\SanPhamServiceReference\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SanPhamServiceReference\service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SanPhamServiceReference\service2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SanPhamServiceReference\WcfServices.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Service References\TonKhoServiceReference\service.wsdl" />
+    <None Include="Service References\TonKhoServiceReference\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\TonKhoServiceReference\service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\TonKhoServiceReference\WcfServices.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>False</AutoAssignPort>
+          <DevelopmentServerPort>1234</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

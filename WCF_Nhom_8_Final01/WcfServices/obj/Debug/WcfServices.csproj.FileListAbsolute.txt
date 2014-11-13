@@ -1,0 +1,66 @@
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll.config
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WcfServices\bin\Debug\BLL.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WcfServices\bin\Debug\DAL.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WcfServices\bin\Debug\BLL.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WcfServices\bin\Debug\DAL.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.csprojResolveAssemblyReference.cache
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll.config
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\BLL.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\DAL.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\BLL.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\DAL.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.csprojResolveAssemblyReference.cache
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll.config
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll.config
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll.config
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.csprojResolveAssemblyReference.cache
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll.config
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.csprojResolveAssemblyReference.cache
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll.config
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll.config
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WcfServices\obj\Debug\WcfServices.pdb
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WcfServices\bin\Debug\WcfServices.dll.config
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WcfServices\bin\Debug\WcfServices.dll
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WcfServices\bin\Debug\WcfServices.pdb
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WcfServices\obj\Debug\WcfServices.csprojResolveAssemblyReference.cache
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WcfServices\obj\Debug\WcfServices.dll
+C:\Users\HoangTuan\Desktop\Wcf_Nhom8\WCF_Nhom_8_Final_01\WCF_Nhom_8_Final01\WcfServices\obj\Debug\WcfServices.pdb

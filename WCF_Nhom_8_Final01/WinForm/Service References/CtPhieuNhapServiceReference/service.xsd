@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.datacontract.org/2004/07/WcfServices" />
+  <xs:element name="HienThiCtPhieuNhap">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="ct" nillable="true" type="q1:CtPhieuNhap" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="HienThiCtPhieuNhapResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="HienThiCtPhieuNhapResult" nillable="true" type="q2:ArrayOfCtPhieuNhap" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="KiemTraMaPhieuNhap">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ma" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="KiemTraMaPhieuNhapResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="KiemTraMaPhieuNhapResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Them">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="ct" nillable="true" type="q3:CtPhieuNhap" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ThemResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

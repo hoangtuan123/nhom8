@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.datacontract.org/2004/07/WcfServices" />
+  <xs:element name="HienThiDonDH">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="HienThiDonDHResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="HienThiDonDHResult" nillable="true" type="q1:ArrayOfDonDH" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TimKiem">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="madondh" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ngaydat" type="xs:dateTime" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TimKiemResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="TimKiemResult" nillable="true" type="q2:ArrayOfDonDH" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TimKiem_TinhTrang">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="tinhtrang" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TimKiem_TinhTrangResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="TimKiem_TinhTrangResult" nillable="true" type="q3:ArrayOfDonDH" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Them">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="ddh" nillable="true" type="q4:DonDH" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ThemResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SuaTongTien">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="ddh" nillable="true" type="q5:DonDH" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SuaTongTienResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SuaTinhTrang">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="ddh" nillable="true" type="q6:DonDH" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SuaTinhTrangResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Xoa">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/WcfServices" minOccurs="0" name="ddh" nillable="true" type="q7:DonDH" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="XoaResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

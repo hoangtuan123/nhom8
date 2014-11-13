@@ -1,0 +1,256 @@
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WebForm\bin\WebForm.dll
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WebForm\bin\WebForm.pdb
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WebForm\bin\BLL.dll
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WebForm\bin\DAL.dll
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WebForm\bin\BLL.pdb
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WebForm\bin\DAL.pdb
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.dll
+C:\Users\SONTUNG\Desktop\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.pdb
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\WebForm.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\WebForm.pdb
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\BLL.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\CollectionPager.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\DAL.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\BLL.pdb
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\DAL.pdb
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.pdb
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\AjaxControlToolkit.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\HtmlAgilityPack.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\AjaxMin.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\AjaxControlToolkit.pdb
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\SONTUNG\Desktop\XDPM\XDPM_NHOM_18\WebForm\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\WebForm.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\WebForm.pdb
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\AjaxControlToolkit.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\BLL.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\CollectionPager.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\DAL.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\HtmlAgilityPack.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\AjaxMin.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\BLL.pdb
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\DAL.pdb
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\AjaxControlToolkit.pdb
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.xml
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\ar\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\cs\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\de\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\es\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\fr\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\he\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\hi\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\it\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\ja\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\ko\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\nl\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\pl\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\pt\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\ru\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.dll
+E:\DE THI - DO AN MON HOC\DO AN MON HOC\04-HK1\XAY DUNG PHAN MEM MO HINH PHAN LOP\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\WebForm.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\WebForm.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\BLL.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\DAL.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\HtmlAgilityPack.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\AjaxMin.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\BLL.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\DAL.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\AjaxControlToolkit.pdb
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.xml
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\ar\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\cs\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\de\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\es\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\fr\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\he\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\hi\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\it\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\ja\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\ko\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\nl\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\pl\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\pt\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\ru\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.dll
+E:\hoc tap\WEBSERVICES\DO AN\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\WebForm.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\WebForm.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\BLL.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\DAL.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\HtmlAgilityPack.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\AjaxMin.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\BLL.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\DAL.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\AjaxControlToolkit.pdb
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.xml
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\ar\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\cs\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\de\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\es\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\fr\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\he\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\hi\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\it\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\ja\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\ko\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\nl\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\pl\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\pt\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\ru\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.dll
+E:\hoc tap\WEBSERVICES\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\WebForm.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\WebForm.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\BLL.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\DAL.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\HtmlAgilityPack.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\AjaxMin.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\BLL.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\DAL.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\AjaxControlToolkit.pdb
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.dll
+C:\Users\HP\Desktop\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\WebForm.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\WebForm.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\BLL.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\DAL.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\HtmlAgilityPack.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\AjaxMin.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\BLL.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\DAL.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\AjaxControlToolkit.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\WebForm.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\WebForm.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\HtmlAgilityPack.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\AjaxMin.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\AjaxControlToolkit.pdb
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\HP\Desktop\WCF\XDPM_NHOM_18\WebForm\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WebForm\bin\WebForm.dll
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WebForm\bin\WebForm.pdb
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.dll
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.pdb
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WebForm\bin\AjaxMin.dll
+C:\Users\HoangTuan\Documents\Visual Studio 2012\Projects\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WebForm\bin\WebForm.dll
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WebForm\bin\WebForm.pdb
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WebForm\bin\AjaxMin.dll
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.dll
+C:\Users\HP\Desktop\WCF\Projects\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.pdb
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WebForm\bin\WebForm.dll
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WebForm\bin\WebForm.pdb
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WebForm\bin\AjaxMin.dll
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.dll
+C:\Users\HoangTuan\Desktop\wcf\WCF_Nhom_8\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.pdb
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WebForm\bin\WebForm.dll
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WebForm\bin\WebForm.pdb
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WebForm\bin\AjaxMin.dll
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.dll
+C:\Users\HP\Downloads\Compressed\WCF_Nhom_8\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.pdb
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WebForm\bin\WebForm.dll
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WebForm\bin\WebForm.pdb
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WebForm\bin\AjaxMin.dll
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.dll
+C:\Users\HP\Desktop\WCF_Nhom_8_Final\WCF_Nhom_8\XDPM_NHOM_18\WebForm\obj\Debug\WebForm.pdb

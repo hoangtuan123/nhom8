@@ -1,0 +1,233 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="WebForm.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Website bán hàng online</title>
+
+    <style type="text/css">
+    .auto-style1 {
+        width: 100%;
+        vertical-align:top;
+    }
+    .auto-style2 {
+        background-color: #66CCFF;
+        text-align: center;
+    }
+        .auto-style3 {
+            color: #FFFF66;
+        }
+     
+        .auto-style2 ul li {
+           
+            display:none;
+        }
+
+        .auto-style2 ul li a{
+            display: block;
+            text-decoration: none;
+            color: #ffffff;
+            border-top: 1px solid #ffffff;
+            padding: 5px 15px 5px 15px;
+            background: #1e7c9a;
+            margin-left: 1px;
+            white-space: nowrap;
+            width:200px;
+           
+        }
+        .auto-style1  ul:hover  li  {
+              display:block;
+             position: absolute;
+        }
+
+
+
+    </style>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+        <table align="center" cellpadding="2" class="auto-style1" width="100%" border="1">
+            <tr>
+                <td colspan="3" width="100%" style="background-color: #FFFFFF">
+                    <table cellpadding="2" class="auto-style1" width="100%">
+                        <tr>
+                            <td width="100%">
+                                <asp:Image ID="Image3" runat="server" height="96px" ImageUrl="~/Hinh/Icon/header.jpg" width="100%" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" width="100%">
+                                <table border="1" cellpadding="2" class="auto-style1">
+                                    <tr>
+                                        <td class="auto-style2">
+                                         <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="TrangChu.aspx">Trang chủ</asp:HyperLink> 
+                                        </td>
+                                         <td class="auto-style2">
+                                          <ul>  <asp:HyperLink ID="HyperLink7" runat="server" NavigateUrl="#">Loại sản phẩm</asp:HyperLink>
+                                            
+                                             <%-- menu --%>
+                                             <asp:Repeater ID="dlDsNSX_1" runat="server" >
+                                                <ItemTemplate>
+                                                   <li>
+                                                  <asp:Image ID="Image4" runat="server" Height="29px" ImageUrl="~/Hinh/Icon/icon.png" Width="26px" />
+                                                  <asp:HyperLink ID="HyperLink6"  runat="server" NavigateUrl='<%# Eval("NhaSX_ID","SanPham.aspx?NhaSX_ID={0}") %>' Text='<%# Eval("TenNhaSX") %>'></asp:HyperLink>
+                                                  </li>
+                                                </ItemTemplate>
+                                            </asp:Repeater>
+                                          </ul>
+                                        </td>
+                                        <td class="auto-style2">
+                                            <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="GioiThieu.aspx">Giới thiệu</asp:HyperLink>
+                                        </td>
+                                        <td class="auto-style2">
+                                            <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="SanPham.aspx">Sản phẩm</asp:HyperLink>
+                                        </td>
+                                        <td class="auto-style2">
+                                            <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="BaoHanh.aspx">Bảo hành</asp:HyperLink>
+                                        </td>
+                                        <td class="auto-style2">
+                                            <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="LienHe.aspx">Liên hệ</asp:HyperLink>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td width="15%" style="background-color: #FFFFFF; text-align: left;">
+            <%--        <asp:DataList ID="dlDsNSX" runat="server" Width="100%">
+                        <ItemTemplate>
+                            <table cellspacing="1" width="100%">
+                                <tr>
+                                    <td widh="15%">
+                                        <asp:Image ID="Image4" runat="server" Height="29px" ImageUrl="~/Hinh/Icon/icon.png" Width="26px" />
+                                    </td>
+                                    <td width="85%">
+                                        <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl='<%# Eval("NhaSX_ID","SanPham.aspx?NhaSX_ID={0}") %>' Text='<%# Eval("TenNhaSX") %>'></asp:HyperLink>
+                                    </td>
+                                </tr>
+                            </table>
+                        </ItemTemplate>
+                    </asp:DataList>--%>
+                        <table cellpadding="2" width="100%">
+                        <tr>
+                            <td colspan="2" style="text-align: center"><strong>Tìm kiếm cơ bản</strong></td>
+                        </tr>
+                        <tr>
+                            <td>Nhập tên sản phẩm</td>
+                            <td>
+                                <asp:TextBox ID="txtTenSP" runat="server" Width="110px"></asp:TextBox>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="text-align: center">
+                                <asp:Button ID="btnTimKiem" runat="server" Text="Tìm kiếm" OnClick="btnTimKiem_Click" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="text-align: center">
+                                <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="TimKiemNangCao.aspx">Tìm kiếm nâng cao</asp:HyperLink>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td width="63.3%" style="vertical-align:top; text-align: left;" rowspan="5">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td width="20%" style="background-color: #FFFFFF; vertical-align:top; text-align: left;">
+                    <strong>&nbsp;&nbsp;&nbsp;
+                    </strong>
+                    <table border="0" cellpadding="3" cellspacing="3" width="100%">
+                        <tr>
+                            <td style="width:100%;text-align:center"><strong style="text-align: center">Thông tin giỏ hàng</strong></td>
+                        </tr>
+                        <tr>
+                            <td class="auto-style1" style="text-align: center">Sản phẩm hiện có
+                                <br />
+                                trong giỏ hàng của bạn</td>
+                        </tr>
+                        <tr>
+                            <td class="auto-style1" style="text-align: center">
+                                <asp:Label ID="lbSoLuong" runat="server" Text="0"></asp:Label>
+                                &nbsp;sản phẩm</td>
+                        </tr>
+                        <tr>
+                            <td class="auto-style1" style="text-align: center">
+                                <asp:ImageButton ID="ImageButton1" runat="server" Height="50px" ImageUrl="~/Hinh/Icon/shoppingcart.png" OnClick="ImageButton1_Click" />
+                                <br />
+                                <asp:Label ID="lbThongBaoLoi" runat="server"></asp:Label>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td width="20%" style="background-color: #FFFFFF">
+               
+                </td>
+                <td width="20%" style="background-color: #FFFFFF; vertical-align:top">
+                    
+                    <table align="center" cellpadding="2">
+                        <tr>
+                            <td colspan="2" style="text-align: center"><strong>Thống kê số lượt truy cập</strong></td>
+                        </tr>
+                        <tr>
+                            <td>Tổng số lượt truy cập:</td>
+                            <td>
+                                <asp:Label ID="lbTruyCap" runat="server">0</asp:Label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Tổng số đang online:</td>
+                            <td>
+                                <asp:Label ID="lbOnline" runat="server">0</asp:Label>
+                            </td>
+                        </tr>
+                    </table>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td width="20%" style="background-color: #FFFFFF">
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/Hinh/QuangCao/qc_01.jpg" />
+                </td>
+                <td width="20%" style="background-color: #FFFFFF; vertical-align:top">
+                    <strong>Hỗ trợ trực tuyến</strong><br />
+                    <br />
+                </td>
+            </tr>
+            <tr>
+                <td width="20%" style="background-color: #FFFFFF">
+                    <asp:Image ID="Image2" runat="server" Height="167px" ImageUrl="~/Hinh/QuangCao/bann2.jpg" Width="181px" />
+                </td>
+                <td width="20%" style="background-color: #FFFFFF; vertical-align:top">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td width="20%" style="background-color: #FFFFFF">&nbsp;</td>
+                <td width="20%" style="background-color: #FFFFFF; vertical-align:top">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="3" width="100%" >
+                    <table cellpadding="2" style="width: 100%;vertical-align:bottom;">
+    <tr>
+        <td width="100%" align="center" style="background-image: url('../Hinh/Icon/footer.jpg')"><span class="auto-style3"><strong>Copyright 2013</strong></span><strong><br class="auto-style3"/>
+            </strong><span class="auto-style3"><strong>Website Bán hàng online - Xây dựng phần mềm - Nhóm 18</strong></span></td>
+    </tr>
+</table>
+                    </td>
+            </tr>
+        </table>
+
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e2601bc2-5e52-43b1-826e-b7e488adfdad" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/WcfServices/SanPhamService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="712ae12e-6069-46b4-ae89-21675c9e2a14" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfServices/SanPhamService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="c0ce342a-dacc-42fc-a9fd-442207971bc7" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfServices/SanPhamService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="7e6e4999-a6ef-43ab-a81c-6d37215867ab" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfServices/SanPhamService/mex" />
+    <MetadataFile FileName="service2.xsd" MetadataType="Schema" ID="928fae51-9c09-45c7-a7b7-150d45b2fbb7" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfServices/SanPhamService/mex" />
+    <MetadataFile FileName="WcfServices.xsd" MetadataType="Schema" ID="d2409594-ffed-408d-94a5-aa739c74a7db" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WcfServices/SanPhamService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
